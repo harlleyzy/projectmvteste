@@ -1,3 +1,11 @@
+1 OBSERVAÇÃO - A partir do java.MAIN, todos os dados dos clientes já podem ser vizualizados sem necessitar de um banco diretamente.
+2 OBSERVAÇÃO - usei a IDE Intellij pois acho mais prática e bem didática.
+3 OBSERVAÇÃO - Foi colocado, também uma função de conta, onde podemos colocar tudo de débito e crédito do cliente em questão, porém ainda faltou o saldo final.
+4 OBSERVAÇÃO - Criei a estrutura de conexãoi com o banco sql developer da oracle, mas não interligou diretamente, mas sim local, pelo própiro intellij.
+
+
+
+
 --tables
 CREATE TABLE clientes
 (   id_cliente   INTEGER NOT NULL PRIMARY KEY,
